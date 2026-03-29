@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+python-multipart
+python-dotenv
+apscheduler
+httpx
+pytest
+google-genai
+python-dotenv
