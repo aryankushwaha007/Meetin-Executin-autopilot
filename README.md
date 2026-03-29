@@ -282,4 +282,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built for the Unstop GenAI Hackathon 2026 · AutopilotOS v1.0*
