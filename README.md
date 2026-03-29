@@ -1,6 +1,6 @@
 # 🤖 Meeting-to-Execution Autopilot
 
-> **Unstop GenAI Hackathon 2026 — Agentic AI Track**  
+ 
 > *Autonomous multi-agent system that converts meeting transcripts into tracked, self-correcting enterprise workflows — zero human clicks required.*
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
