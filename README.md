@@ -216,7 +216,7 @@ docker-compose up --build
 
 ## Running the Demo
 
-Once both services are running, follow the **3-minute demo script** in [`docs/demo-runbook.md`](docs/demo-runbook.md):
+
 
 1. **Open** `http://localhost:3000`
 2. **Go to** the *Demo Runner* tab → click **"Wipe & Seed Database"** to load sample data
