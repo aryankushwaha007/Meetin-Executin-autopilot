@@ -261,16 +261,7 @@ See [`docs/impact-model.md`](docs/impact-model.md) for the full quantified model
 
 ---
 
-## Documentation Index
 
-| Document | Purpose |
-|---|---|
-| [`docs/architecture.md`](docs/architecture.md) | System diagram, agent roles, error-handling logic, tool integrations |
-| [`docs/impact-model.md`](docs/impact-model.md) | Quantified business ROI with full assumptions |
-| [`docs/demo-runbook.md`](docs/demo-runbook.md) | Click-by-click 3-minute live demo script |
-| [`docs/pitch-script.md`](docs/pitch-script.md) | Hackathon pitch narrative |
-
----
 
 ## What's Not Included (Intentionally)
 
